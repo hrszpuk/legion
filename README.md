@@ -1,5 +1,8 @@
-# legion
+# Legion
 A fast, easy to use, command line image to ascii converter.
+
+![GitHub go.mod Go version (branch)](https://img.shields.io/github/go-mod/go-version/hrszpuk/legion/master)
+![GitHub issues](https://img.shields.io/github/issues/hrszpuk/legion)
 
 ## Installation
 The installation of Legion is broken down into three distinct parts: downloading project files, building project files, and installing the executable.
@@ -41,3 +44,7 @@ legion -v path/to/file
 
 ## Contribution
 This is one of the first project on this account and I appricate any feedback you may have about the project itself. if you have any issues or cool ideas please create a GitHub issue and I will try to resolve any issues swiftly. There will be issue templates for problems and feature suggestions. 
+
+
+![Twitter Follow](https://img.shields.io/twitter/follow/hrszpuk?style=social)
+![GitHub followers](https://img.shields.io/github/followers/hrszpuk?style=social)
