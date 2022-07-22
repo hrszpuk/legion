@@ -1,6 +1,9 @@
 # Legion
 A fast, easy to use, command line image to ascii converter.
 
+
+![GitHub followers](https://img.shields.io/github/followers/hrszpuk?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/hrszpuk?style=social)
 ![GitHub go.mod Go version (branch)](https://img.shields.io/github/go-mod/go-version/hrszpuk/legion/master)
 ![GitHub issues](https://img.shields.io/github/issues/hrszpuk/legion)
 
